@@ -1,7 +1,7 @@
 # KUtils
 > Kakaotalk bot Utils.
 
-![Logo](https://www.dropbox.com/s/ggo4isf7w1dgqa8/LEGEND_20190111_015236.gif?dl=1)
+![Logo](https://blogthumb.pstatic.net/MjAxOTAxMTFfMTYy/MDAxNTQ3MjE3MjYyMjAy.zu4YQKbqflkpqmk-Pz7L4dSJzYk_wJJQeH_bDo8un-Ig.eAxgLcgXSHwmtCIp6M1Dt29feaL4_Ck9To7PAdw2xVMg.GIF.wltjdqls5304/logo.gif?type=w2)
 
 -------
 
