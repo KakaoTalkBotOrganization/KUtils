@@ -12,4 +12,28 @@
 > Add the KUtils source code to the top of your script.
 
 ## All Methods.
-~~Will be add...~~ 
+**KUtils.**
+- makeVibration(int time)
+- makeNotification(String title, String content)
+- makeToast(String content)
+- save(String fileName, String fileContent)
+- delete(String fileName)
+- createFile(String fileName)
+- createFolder(String folderName)
+- toBoolean(String true/false)
+- toNumber(String number)
+- toString(Object obj)
+- copy(String content)
+- error(Exception e)
+- getHtml(String adress)
+- deleteHtml(String htmlCode)
+- makeRandom(int min, int max)
+
+**String.prototype.**
+- replaceAll(String ori, String pre)
+- replaceFirst(String ori, String pre)
+- replaceLast(String ori, String pre)
+- replaceCenter(String ori, String pre)
+
+
+~~**Will be Updata...
