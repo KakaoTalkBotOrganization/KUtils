@@ -49,6 +49,3 @@
 - deleteAllNotNumber()
 - deleteAllNotSC()
 > SC : Special Characters
-
-- [ ] 
-- [x] 
