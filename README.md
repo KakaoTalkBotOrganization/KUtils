@@ -34,6 +34,21 @@
 - replaceFirst(String ori, String pre)
 - replaceLast(String ori, String pre)
 - replaceCenter(String ori, String pre)
+- contains(String content)
+- trimAllLine()
 
+**Array.prototype.**
+- replaceArrayData(String ori, Content pre)
+- deleteArrayData(String content)
 
-~~**Will be Updata...
+**RegReplace.**
+- deleteAllKor()
+- deleteAllNumber()
+- deleteAllSC()
+- deleteAllNotKor()
+- deleteAllNotNumber()
+- deleteAllNotSC()
+> SC : Special Characters
+
+- [ ] 
+- [x] 
