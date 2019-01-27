@@ -16,6 +16,7 @@
 - makeVibration(int time)
 - makeNotification(String title, String content)
 - makeToast(String content)
+- makeDialog(String title, String content)
 - save(String fileName, String fileContent)
 - delete(String fileName)
 - createFile(String fileName)
