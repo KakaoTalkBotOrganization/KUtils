@@ -39,6 +39,7 @@
 - trimAllLine()
 
 **Array.prototype.**
+- contains(String content)
 - replaceArrayData(String ori, Content pre)
 - deleteArrayData(String content)
 
