@@ -1,7 +1,7 @@
 # KUtils
 > Kakaotalk bot Utils.
 
-![Logo](https://blogthumb.pstatic.net/MjAxOTAxMTFfMTYy/MDAxNTQ3MjE3MjYyMjAy.zu4YQKbqflkpqmk-Pz7L4dSJzYk_wJJQeH_bDo8un-Ig.eAxgLcgXSHwmtCIp6M1Dt29feaL4_Ck9To7PAdw2xVMg.GIF.wltjdqls5304/logo.gif?type=w2)
+<img src="https://blogthumb.pstatic.net/MjAxOTAxMTFfMTYy/MDAxNTQ3MjE3MjYyMjAy.zu4YQKbqflkpqmk-Pz7L4dSJzYk_wJJQeH_bDo8un-Ig.eAxgLcgXSHwmtCIp6M1Dt29feaL4_Ck9To7PAdw2xVMg.GIF.wltjdqls5304/logo.gif?type=w2" width="50%" height="50%">
 
 -------
 
@@ -17,6 +17,7 @@
 - makeNotification(String title, String content)
 - makeToast(String content)
 - makeDialog(String title, String content)
+- makeRandom(int min, int max)
 - save(String fileName, String fileContent)
 - delete(String fileName)
 - createFile(String fileName)
@@ -28,7 +29,6 @@
 - error(Exception e)
 - getHtml(String adress)
 - deleteHtml(String htmlCode)
-- makeRandom(int min, int max)
 
 **String.prototype.**
 - replaceAll(String ori, String pre)
