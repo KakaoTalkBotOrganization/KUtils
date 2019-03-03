@@ -53,5 +53,5 @@
 - deleteAllNotSC()
 > SC : Special Characters
 
-## Warning
+## Warning!
 KUtils only works on MessengerBot.
