@@ -1,7 +1,7 @@
 # KUtils
 > Kakaotalk bot Utils.
 
-<img src="https://blogthumb.pstatic.net/MjAxOTAxMTFfMTYy/MDAxNTQ3MjE3MjYyMjAy.zu4YQKbqflkpqmk-Pz7L4dSJzYk_wJJQeH_bDo8un-Ig.eAxgLcgXSHwmtCIp6M1Dt29feaL4_Ck9To7PAdw2xVMg.GIF.wltjdqls5304/logo.gif?type=w2" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/sungbin5304/KUtils/master/logo.gif" width="50%" height="50%">
 
 -------
 
