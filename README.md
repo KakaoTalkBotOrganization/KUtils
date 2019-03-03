@@ -54,4 +54,4 @@
 > SC : Special Characters
 
 ## Warning!
-KUtils only works on MessengerBot.
+KUtils only works on [MessengerBot](https://play.google.com/store/apps/details?id=com.xfl.kakaotalkbot).
