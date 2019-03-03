@@ -1,5 +1,5 @@
 # KUtils
-> Kakaotalk bot Utils.
+> Kakaotalk bot Utils
 
 <img src="https://raw.githubusercontent.com/sungbin5304/KUtils/master/logo.gif" width="50%" height="50%">
 
@@ -52,3 +52,6 @@
 - deleteAllNotNumber()
 - deleteAllNotSC()
 > SC : Special Characters
+
+## Warning
+KUtils only works on MessengerBot.
