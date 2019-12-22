@@ -32,8 +32,7 @@ String.prototype.replaceLast = function(a, b){
 }	
 
 String.prototype.contains = function(a){
-  var isContains = this.indexOf(a);
-  return (isContains==-1?true:false);
+  return this.includes(a);
 }
 
 Array.prototype.contains = function(a){
