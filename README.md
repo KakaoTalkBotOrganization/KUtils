@@ -1,4 +1,3 @@
-<h1 align="center">KUtils</h1>
 <p align="center">
   <img width="500" height="500" src="https://raw.githubusercontent.com/sungbin5304/KUtils/master/kutils.png">
 </p>
@@ -9,28 +8,45 @@
 KUtils is an open source collection of useful features written in Rhino JavaScript.
 
 ## How can I use KUtils?
-Add the KUtils source code to the top of your script. (use copy & paste)
+Add the KUtils [source code](https://github.com/sungbin5304/KUtils/blob/master/KUtils.js) to the top of your script. (use copy & paste)
 
 ## All Methods
-**KUtils**
-- makeRandom(int min, int max)
-- save(String fileName, String fileContent)
-- delete(String fileName)
-- makeFile(String fileName)
-- makeFolder(String folderName)
-- getHtml(String adress)
-
 **String.prototype**
-- replaceAll(String ori, String pre)
-- replaceLast(String ori, String pre)
-- contains(String content)
-- trimAllLine()
+```js
+- replaceAll(@String ori, @String change) {String}
+- replaceLast(@String ori, @String change) {String}
+- contains(@String content) {boolean}
+- checkSpell() {String}
+- trimAllLine() {String}
+- toInt() {int; throwable Exceoption}
+- toBoolean() {boolean; throwable String}
+- removeHtmlTag() {String}
+- kotlin2js() {String}
+```
 
 **Array.prototype**
-- contains(String content)
-- size()
-- isEmpty()
-- isNotEmpty()
-- remove(
+```js
+- size() {int} 
+- isEmpty() {boolean}
+- isNotEmpty() {boolean}
+- contains(@String content) {boolean}
+- remove(@Object element, @boolean removeAll = false) {void}
+```
 
-</p>
+**KUtils**
+```js
+- save(@String path, @String content, @boolean createRootFolder = false) {void}
+- read(@String path, @Object notExistReturn) {String; can Object(noExistReturn)}
+- makeFolder(@String path) {boolean}
+- removeFolder(@String path) {boolean}
+- makeFile(@String path) {boolean}
+- getHtml(@String address) {String; throwable Exception}
+- makeRandom(@int max, @int min) {int}
+- fastLog(@String content) {void}
+- readLog() {String}
+- splitKor(@String text) {String}
+- joinKor(@String text) {String}
+- similarityKor(@String text, @String text2) {int}
+- kor2eng(@String text) {String}
+- eng2kor(@String text) {String}
+```
