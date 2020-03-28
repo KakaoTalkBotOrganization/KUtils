@@ -44,9 +44,12 @@ Add the KUtils [source code](https://github.com/sungbin5304/KUtils/blob/master/K
 - makeRandom(@int max, @int min) {int}
 - fastLog(@String content) {void}
 - readLog() {String}
-- splitKor(@String text) {String}
-- joinKor(@String text) {String}
-- similarityKor(@String text, @String text2) {int}
-- kor2eng(@String text) {String}
-- eng2kor(@String text) {String}
+- splitKor(@String text) {String} (Experimental)
+- joinKor(@String text) {String} (Experimental)
+- similarityKor(@String text, @String text2) {int} (Experimental)
+- kor2eng(@String text) {String} (Experimental)
+- eng2kor(@String text) {String} (Experimental)
 ```
+
+
+# Happy Coding :)
