@@ -146,7 +146,7 @@ kotlin2js = (text) => {
 
 Array.prototype.contains = function(text){
     let isContains = this.indexOf(text);
-    return (isContains == -1 ? true : false);
+    return (isContains == -1 ? false : true);
 }
 
 Array.prototype.remove = function(element, removeAll){
