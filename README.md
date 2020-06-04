@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="500" height="500" src="https://raw.githubusercontent.com/sungbin5304/KUtils/master/kutils.png">
-</p>
+![logo](https://raw.githubusercontent.com/sungbin5304/KUtils/master/20200605_011000_0000.png)
 
 -------
 
