@@ -49,6 +49,11 @@ Add the KUtils [source code](https://github.com/sungbin5304/KUtils/blob/master/K
 - eng2kor(@String text) {String} (Experimental)
 ```
 
+# KUtils 2.0 is Open!
+[[Download]](https://github.com/sungbin5304/KUtils/blob/master/KUtils%202.0.js)
+## What's new?
+Code clean-up and remove some functions.
+
 ## License
 ```
                             Copyright 2020 SungBin
