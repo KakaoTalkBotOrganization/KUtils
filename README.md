@@ -54,6 +54,8 @@ Add the KUtils [source code](https://github.com/sungbin5304/KUtils/blob/master/K
 ## What's new?
 Code clean-up and remove some functions.
 
+## Written by [SungBin](https://github.com/sungbin5304)
+
 ## License
 ```
                             Copyright 2020 SungBin
