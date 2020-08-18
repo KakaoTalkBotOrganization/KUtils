@@ -17,7 +17,7 @@ Array.prototype.size = function() {
 };
 
 Array.prototype.isEmpty = function() {
-    return this.size() > 0;
+    return this.size() === 0;
 };
 
 Array.prototype.isNotEmpty = function() {
