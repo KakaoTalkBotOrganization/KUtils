@@ -29,15 +29,14 @@ Array.prototype.contains = function(text) {
 };
 
 Array.prototype.remove = function(element, removeAll) {
-    if (!this.contains(element)) return this;
-    if (!removeAll) {
+    const index = this.indexOf(element);
+    if (index !== -1) {
         this.splice(index, 1);
-        return this;
-    } else {
-        this.remove(element);
-        if (this.contains(element)) this.remove(element, true);
-        else return this;
+        if (removeAll) {
+            this.remove(element, true);
+        }
     }
+    return this;
 };
 
 String.prototype.toInt = function() {
