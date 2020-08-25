@@ -66,5 +66,6 @@ Add the KUtils [source code](https://github.com/sungbin5304/KUtils/blob/master/K
    limitations under the License.
 ```
 
+> You can see `KUtils 2.0` preview at `Dev` branch!
 
 # Happy Coding :)
