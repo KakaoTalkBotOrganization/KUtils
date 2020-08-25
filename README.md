@@ -2,6 +2,8 @@
 
 -------
 
+> You can see `KUtils 2.0` preview at `Dev` branch!
+
 ## What is KUtils?
 KUtils is an open source collection of useful features written in Rhino JavaScript.
 
@@ -65,7 +67,5 @@ Add the KUtils [source code](https://github.com/sungbin5304/KUtils/blob/master/K
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-
-> You can see `KUtils 2.0` preview at `Dev` branch!
 
 # Happy Coding :)
