@@ -73,5 +73,3 @@ Code clean-up and remove some functions.
 
 
 # Happy Coding :)
-
-### Written by [SungBin](https://github.com/sungbin5304)
