@@ -48,7 +48,7 @@ String.prototype.toBoolean = function() {
 };
 
 String.prototype.trimAllLine = function() {
-    return this.split("\n").map(e => {
+    return this.split("\n").map((e) => {
         return e.trim();
     }).join("\n");
 };
